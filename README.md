@@ -4,5 +4,6 @@ Upon joining, it plays a video from the SD card.
 ## Video tutorial:
 
 <a href="https://www.youtube.com/watch?v=er-FVC-X14Y">
-  <img src="https://i9.ytimg.com/vi/er-FVC-X14Y/mqdefault.jpg?v=66feb98d&sqp=CMjI_LcG&rs=AOn4CLBQ-gsB6f-4BsZhIL1m8FhcwziZ8A" alt="Tutorial" style="width:100%; max-width:800px;">
+  <img src="https://img.youtube.com/vi/er-FVC-X14Y/maxresdefault.jpg" alt="Tutorial" style="width:100%; max-width:800px;">
 </a>
+

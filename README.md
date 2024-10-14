@@ -12,6 +12,7 @@ Just a simple ESP32 script that uses the ESP32's onboard Wi-Fi to broadcast a fa
 ## SD Card Version
 
 Wire the SD card module as shown in the diagram below:
+
 <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2021/02/ESP32-microSD-Card-Wiring-Diagram.png" alt="Tutorial" style="width:60%; max-width:800px;">
 
 Once wired, be sure to format your SD card to FAT32. Upload the video file you'd like to play upon joining and name it `your-video-file.mp4`. After that, upload the SD card version of the sketch to your ESP32 and insert the SD card into the reader.

@@ -19,4 +19,4 @@ Once wired, be sure to format your SD card to FAT32. Upload the video file you'd
 
 ## Non-SD Card Version
 
-For the non-SD card version, you’ll need to flash a shortened audio-only file to the ESP32 using [SPIFFS](https://www.programmingelectronics.com/spiffs-esp32/) and name it `your-audio-file.mp4`. Then, upload the non-SD card version of the sketch to the ESP32.
+For the non-SD card version, you’ll need to flash a shortened audio-only file to the ESP32 using [SPIFFS](https://www.programmingelectronics.com/spiffs-esp32/) and name it `your-audio-file.mp3`. Then, upload the non-SD card version of the sketch to the ESP32.
